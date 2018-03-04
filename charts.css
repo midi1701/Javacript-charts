@@ -1,0 +1,21 @@
+body, html {
+    height: 100%;
+    margin: 0;
+	}
+	
+header {
+    padding: 1em;
+    color: white;
+    background-color: grey;
+    clear: left;
+    text-align: center;
+	font-family: arial
+}
+
+.graph{
+	width: 50%;
+	height: 450px;
+	float: left;
+}
+
+
